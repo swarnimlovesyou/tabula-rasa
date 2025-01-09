@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: tabula-rasa
+    env: python
+    buildCommand: ""
+    startCommand: "python your_script.py"
